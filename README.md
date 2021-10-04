@@ -1,5 +1,7 @@
 # Patent claim dependecy
 
+Patent claims that refer back to and further limit another claim are called dependent claims. Each claim usually contains a set of features. 
+
 ## Example
 
 Let us take the following example of patent claims:
