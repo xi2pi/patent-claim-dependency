@@ -70,7 +70,7 @@ Output:
 
 <code>[False, True, False, False, True, False, True, False]</code> 
 
-The output list gives the same results as explained above
+The output list gives the same results as explained above, saying which claim may refer to feature A:
 
 - claim 1: False - No
 - claim 2: True  - Yes
