@@ -1,4 +1,4 @@
-# Dependency analysis of patent claims
+# Patent claim dependecy
 
 ## Example
 
