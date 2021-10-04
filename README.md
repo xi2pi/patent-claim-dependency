@@ -45,7 +45,7 @@ In this small project, I would like to tackle questions like the one above. Also
 
 ## Coding
 
-Let us take a look again at the example above.
+Let us take a look again at the example above and use some code to get an answer to the stated question of dependency.
 
 ### Defining the dependency
 
