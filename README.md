@@ -22,9 +22,11 @@ Let us take the following example of patent claims:
 - claim 8
 -- depending on claim 3 and 4
 
-where claim 2 to 8 are subclaims of claim 1.
+where claim 2 to 8 are dependet claims of claim 1.
 
-And let us say, claim 2 defines the feature A. **Which claim may refer to feature A?**
+And let us say, claim 2 defines the feature A. 
+
+Question: **Which claim may refer to feature A?**
 
 Solution:
 - claim 1: Feature A is first defined in claim 2 - No
