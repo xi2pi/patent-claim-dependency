@@ -16,7 +16,7 @@ Let us take the following example of patent claims:
 - claim 5
 -- depending on claim 2
 - claim 6
--- depending one of claims 1 to 5
+-- depending on one of claims 1 to 5
 - claim 7
 -- depending on claim 2 or 5
 - claim 8
