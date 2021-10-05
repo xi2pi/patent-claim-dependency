@@ -24,14 +24,14 @@ Let us take the following example of patent claims:
 
 where claim 2 to 8 are dependet claims of claim 1.
 
-And let us say, claim 2 defines the feature A. 
+And let us say, claim 2 defines feature A. 
 
-Question: **Which claim may refer to feature A?**
+Question: **Which claim may refer to feature A of claim 2?**
 
 Solution:
 - claim 1: Feature A is first defined in claim 2 - No
 - claim 2: Definition of feature A - Yes
-- claim 3: Refers to claim 1 and claim 2; claim 1 does not disclose the feature A - No
+- claim 3: Refers to claim 1 and claim 2. Claim 1 does not disclose feature A. A combination of claim 1 and claim 3 would not contain feature A. Therefore claim 3 may not refer to feaure A of claim 2 as a definitely existing feature - No
 - claim 4: Refers to claim 1 only - No
 - claim 5: Refers to claim 2 only - Yes
 - claim 6: Refers to claims 1 to 5; some claims do not disclose the feature A - No
