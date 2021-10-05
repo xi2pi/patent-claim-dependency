@@ -10,17 +10,17 @@ Let us take the following example of patent claims:
 - claim 2
 -- depending on claim 1
 - claim 3
--- depending on claim 1 and 2
+-- depending on claim 1 or 2
 - claim 4
 -- depending on claim 1
 - claim 5
 -- depending on claim 2
 - claim 6
--- depending on claim 1 to 5
+-- depending one of claims 1 to 5
 - claim 7
--- depending on claim 2 and 5
+-- depending on claim 2 or 5
 - claim 8
--- depending on claim 3 and 4
+-- depending on claim 3 or 4
 
 where claim 2 to 8 are dependet claims of claim 1.
 
